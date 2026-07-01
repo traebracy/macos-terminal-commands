@@ -1,6 +1,6 @@
 # macos-terminal-cmds
 
-this repository is a summary of **(CLI)** commands I practiced while learning how to use the mac-os terminal. 
+this repository is a summary of command-line cmds I practiced while learning how to use the mac-os terminal. 
 
 ---
 
@@ -27,24 +27,3 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 | `mv file-name folder-name` | Moves a file into another folder          |
 | `rm file-name`             | Deletes a file                            |
 | `rm -r folder-name`        | Deletes a folder and everything inside it |
-
----
-
-## practice cmds
-
-```bash
-pwd
-ls
-cd folder-name
-cd ..
-clear
-mkdir folder-name
-touch file-name
-touch README.md
-mv old-name new-name
-mv file-name folder-name
-rm file-name
-rm -r folder-name
-```
-
----
