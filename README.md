@@ -25,3 +25,9 @@ This repository contains terminal commands I practiced for moving through folder
 | `mv file-name folder-name` | Moves a file into another folder          |
 | `rm file-name`             | Deletes a file                            |
 | `rm -r folder-name`        | Deletes a folder and everything inside it |
+
+---
+
+## Credit
+
+Credit to CodeDex for the command-line learning material this practice is based on. I organized these notes here in my own words for review.
